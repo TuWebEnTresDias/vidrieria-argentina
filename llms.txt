@@ -3,9 +3,9 @@
 Sitio de Vidriería Argentina, ubicada en Mar del Plata Centro.
 
 ## Páginas
-- [Inicio y contacto](https://tuwebentresdias.github.io/vidrieria-argentina/): información de atención, referencias visuales y acceso al contacto por WhatsApp.
+- [Inicio y contacto](https://tuwebentresdias.github.io/vidrieria-argentina/): información de atención, referencias visuales, ubicación y acceso al contacto por WhatsApp.
 
 ## Información confirmada
-- Zona: Mar del Plata Centro.
-- Horarios publicados: lunes 8:30–18:30; martes a sábado 8:30–20:30; domingo cerrado.
+- Dirección: Bartolomé Mitre 1878, B7600, Mar del Plata, Provincia de Buenos Aires.
+- Horarios: lunes 8:30–18:30; martes a sábado 8:30–20:30; domingo cerrado.
 - Las fotos del sitio son referencias ilustrativas, no trabajos del negocio.
